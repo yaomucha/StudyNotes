@@ -17,3 +17,5 @@ git push 链接 分支名  （git push origin develop） 推送
 git checkout 分支名  切换到某个分支
 
 git checkout 文件名  丢弃修改
+
+git show commitId 查看某个commit的内容
